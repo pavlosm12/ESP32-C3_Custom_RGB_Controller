@@ -1,6 +1,6 @@
 # ESP32-C3 Custom RGB Controller
 
-![3D View]([https://user-images.githubusercontent.com/95383090/230792590-40fd404d-087f-4cdb-9712-f6d4d5ffccc1.png](https://github.com/pavlosm12/ESP32-C3_Custom_RGB_Controller/blob/main/pcb_3d.png?raw=true))
+![3D View](https://github.com/pavlosm12/ESP32-C3_Custom_RGB_Controller/blob/main/pcb_3d.png)
 
 
  ## Overview
